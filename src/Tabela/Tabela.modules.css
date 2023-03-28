@@ -1,0 +1,19 @@
+
+table{
+    border-collapse: separate;
+    background-color: #6c5ce7;
+    width: 80%;
+    border-radius: 10px;
+    margin: 32px 16px;
+    padding: 10px;
+
+}
+
+td , th{
+    border: 1px solid #fff;
+    padding: 4px;
+}
+
+td {
+    text-align: center;
+}

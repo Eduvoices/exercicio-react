@@ -37,24 +37,5 @@
     padding: 8px;
 }
 
-.table-area{
-    background-color: #6c5ce7;
-    width: 80%;
-    border-radius: 10px;
-    margin: 32px 16px;
-    padding: 10px;
-}
-table{
-    border-collapse: separate;
 
-}
-
-td , th{
-    border: 1px solid #fff;
-    padding: 4px;
-}
-
-td {
-    text-align: center;
-}
 
